@@ -1,4 +1,3 @@
-from images import IMAGES
 import random,string
 
 def play_again():
